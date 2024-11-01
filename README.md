@@ -24,7 +24,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Je focus:
   Surface plane:
    1. Light dark mode
-   2. Winkelmandje vullen
+   2. Winkelwagen vullen
    3. Na refreshen van pagina een grotere height van filmpje en dan automatisch kleiner worden
    4. Animatie met 'cleanse'
    5. Text treat tint vullen.
@@ -432,5 +432,16 @@ Ook vind ik achteraf dat ik eerder om hulp had moeten vragen inplaats van afwach
   11. https://youtu.be/350_XyLj4-U?si=W3QbCTCVjxw6Njba
 
   (Youtube, video autoplay)
+
+  12. https://chatgpt.com/share/6724af7c-a3fc-8000-9e28-d19334e0392d 
+  (ChatGPT, 2024)
+
+  13. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
+
+  14. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
+
+  15. https://chatgpt.com/share/6724e799-7fbc-8000-aa3e-9cc5a6d6a53d
+
+  16. https://youtu.be/9LZGB3OLXNQ?si=guN0tfSwYKVqzxP6 + eerder gemaakte javascript in mijn script.js document.
 
 </details>
